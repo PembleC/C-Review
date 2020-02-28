@@ -1,2 +1,2 @@
 # C-Review
-I want to create a review of basic C programs
+I wanted to create a review of basic C programs, so here it is.
